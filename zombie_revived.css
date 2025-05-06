@@ -571,10 +571,10 @@ a[href*="anidb.net"] {
 }
 .adminDrawerLogo img,
 imgLogoIcon {
-  content: url(https://cdn.jsdelivr.net/gh/SamuelFerreira1192/zombie-release@0fc66349bbf8e5c0f639b3a850648ee17b2a300e/jellyfin-logo-light.png) !important;
+  content: url(https://cdn.jsdelivr.net/gh/SamuelFerreira1192/zombie-release@main/logo/jellyfin-logo-light.png) !important;
 }
 .pageTitleWithLogo {
-  background-image: url(https://cdn.jsdelivr.net/gh/SamuelFerreira1192/zombie-release@0fc66349bbf8e5c0f639b3a850648ee17b2a300e/jellyfin-logo-light.png) !important;
+  background-image: url(https://cdn.jsdelivr.net/gh/SamuelFerreira1192/zombie-release@main/logo/jellyfin-logo-light.png) !important;
 }
 #txtCustomCss,
 #txtLocalCustomCss {
