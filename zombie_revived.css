@@ -571,10 +571,10 @@ a[href*="anidb.net"] {
 }
 .adminDrawerLogo img,
 imgLogoIcon {
-  content: url(https://cdn.jsdelivr.net/gh/MakD/zombie-release@main/logo/jellyfin-logo-light.png) !important;
+  content: url(https://cdn.jsdelivr.net/gh/SamuelFerreira1192/zombie-release@main/logo/jellyfin-logo-light.png) !important;
 }
 .pageTitleWithLogo {
-  background-image: url(https://cdn.jsdelivr.net/gh/MakD/zombie-release@main/logo/jellyfin-logo-light.png) !important;
+  background-image: url(https://cdn.jsdelivr.net/gh/SamuelFerreira1192/zombie-release@main/logo/jellyfin-logo-light.png) !important;
 }
 #txtCustomCss,
 #txtLocalCustomCss {
